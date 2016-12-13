@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Welcome to my page! My name is Chris and  I am a Computer Science student at the University of Waterloo.
+My interests include cooking, piano, building computers, and Computer Science. My career goal is to become a software developer in fields related to AI or machine learning. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Perhaps I'll learn how to hack. There's a lot of things that I am intersted in learning right now and I am actively trying to learn as much as I can. 
+As of now I am still learning how to build a site. I will update it as I learn! :)
