@@ -1,0 +1,22 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@import "minima";
+.page-heading {
+  font-size:28px;
+  margin-bottom: 10%;
+}
+.banner {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  text-align:center;
+}
+.page-logo{
+  font-size:40px;
+}
+.contact-list li {
+  margin: 0 0 11px 0;
+  list-style: none;
+}
+.icon-set {
+}

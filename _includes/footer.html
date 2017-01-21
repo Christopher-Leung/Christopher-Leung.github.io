@@ -1,0 +1,27 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Contact me!</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+            {% if site.email %}
+            <li><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:{{ site.email }}">Email</a></li>
+            {% endif %}
+            <li><i class="fa fa-facebook" aria-hidden="true"></i> <a href="https://www.facebook.com/christopher.leung.357">Facebook</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li><i class="fa fa-github" aria-hidden="true"></i> <a href="https://github.com/Christopher-Leung">Github</a>
+          </li>
+          {% endif %}
+   </div>
+
+  </div>
+
+</footer>
