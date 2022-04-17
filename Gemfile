@@ -23,3 +23,5 @@ gem "github-pages", group: :jekyll_plugins
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
 gem 'font-awesome-sass'
+
+gem "webrick", "~> 1.7"
