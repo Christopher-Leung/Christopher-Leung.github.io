@@ -9,3 +9,22 @@
   margin-top:5%;
   margin-bottom:10%;
 }
+
+.intro-header {
+  float:right;
+  padding-top:15%;
+  padding-right:10%;
+  line-height:1.8;
+}
+
+@media only screen and (max-width: 758px) {
+  .header{
+    width: 100%;
+  }
+  .intro-header{
+    float:none;
+    padding-top:15%;
+    padding-right:10%;
+    line-height:1.8;
+  }
+}
